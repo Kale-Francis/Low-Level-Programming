@@ -37,7 +37,7 @@ Each day focuses on a specific set of concepts, building on the knowledge gained
 
 ## Getting Started
 
-1.  **Clone this repository:** `git clone [your_repo_url]`
+1.  **Clone this repository:** `git clone https://github.com/Kale-Francis/Low-Level-Programming.git`
 2.  **Set up your development environment:**
     * **Operating System:** Windows, macOS, or Linux.
     * **Code Editor:** VS Code with the C/C++ Extension Pack.
